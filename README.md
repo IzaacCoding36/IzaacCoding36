@@ -1,4 +1,4 @@
-# About me
+# Sobre mim:
 
 - _Olá, eu sou @Zackcoding36_
 - _Eu estou interessado em aprender novas linguagens_
@@ -6,13 +6,13 @@
 - _Atualmente estudo no [Alura](https://www.alura.com.br/)_
 - _Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_
 
-![](https://tenor.com/pt-BR/view/reasonsimbroke-xbox-xbox-series-x-xbox360-xbox-series-s-gif-24697188)
+![](https://media.tenor.com/24tIz3UhN50AAAAC/reasonsimbroke-xbox.gif)
 *Espero que olhe e aproveite meus projetos/arquivos e ideias!*
 
-##Contatos:
+## Contatos:
 
 -E-mail: (oliveira.izaac@escola.pr.gov.br)
 
-### Meus Perfis
+### Meus Perfis:
 
 [Scratch](https://scratch.mit.edu/users/Zackmaster36/)
