@@ -7,6 +7,7 @@
 - _Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_
 
 ![](https://media.tenor.com/24tIz3UhN50AAAAC/reasonsimbroke-xbox.gif)
+
 *Espero que olhe e aproveite meus projetos/arquivos e ideias!*
 
 ## Contatos:
