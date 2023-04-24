@@ -2,7 +2,7 @@
 
 - _Olá, eu sou @Zackcoding36_
 - _Eu estou interessado em aprender novas linguagens_
-- _Eu estou aprendendo a programar usando as linguagens de JavaScript,html,css e Python_
+- _Eu estou aprendendo a programar usando as linguagens de JavaScript, Html, css e Python_
 - _Atualmente estudo no [Alura](https://www.alura.com.br/)_
 - _Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_
 
