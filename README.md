@@ -2,7 +2,7 @@
 
 - _Olá, **seja bem-vindo!** Eu sou Zackcoding36_
 - _Eu estou interessado em aprender novas linguagens_
-- _Eu também estou aprendendo a programar usando as linguagens de JavaScript, Html, css e C++_
+- _Eu também estou aprendendo a programar usando as linguagens de JavaScript, Html, css, C++ e Python_
 - _Atualmente estudo no [Alura](https://www.alura.com.br/) e em minha escola_
 - _Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_
 
