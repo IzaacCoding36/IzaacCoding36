@@ -10,17 +10,17 @@
 
 *Espero que olhe e aproveite meus projetos/arquivos e ideias!* 😉
 
-## Contatos:
+# Contatos:
 
 - E-mail: (oliveira.izaac@escola.pr.gov.br)
 
-### Meus Perfis:
+# Meus Perfis:
 
 [Scratch](https://scratch.mit.edu/users/Zackmaster36/) 
 
 [Alura](https://cursos.alura.com.br/user/izaac-colodel-3162)
 
-### Minhas Informações: 
+# Minhas Informações: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zackcoding36&theme=merko&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zackcoding36&theme=merko&layout=compact)
