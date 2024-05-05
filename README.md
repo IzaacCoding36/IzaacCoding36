@@ -6,6 +6,8 @@
 - _Atualmente estudo no Colégio Estadual Hasdrubal Bellegard (estudando no Ensino Médio) e realizo cursos nas plataformas [Alura](https://www.alura.com.br/) e [Hackers do Bem](https://hackersdobem.org.br)_
 - _Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_
 
+**_Confira também o meu site onde você pode ver o que eu faço e para saber um pouco mais sobre mim: [IzaacWeb](https://izaacweb.vercel.app/)_**
+
 ![](https://media.tenor.com/24tIz3UhN50AAAAC/reasonsimbroke-xbox.gif)
 
 *Espero que olhe e aproveite meus projetos/arquivos e ideias!* 😉
