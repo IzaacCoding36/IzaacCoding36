@@ -3,7 +3,7 @@
 - _Olá, **seja bem-vindo!** Eu sou Izaac Colodel de Oliveira, digitalmente IzaacCoding36_
 - _Eu estou interessado em aprender novas linguagens_
 - _Eu também estou aprendendo a programar usando as linguagens de JavaScript, Html, css, Shell, Python, etc..._
-- _Atualmente estudo no Colégio Estadual Hasdrubal Bellegard (estudando no Ensino Médio) e realizo cursos nas plataformas [Alura](https://www.alura.com.br/) e [Hackers do Bem](https://hackersdobem.org.br)_
+- _Atualmente estou planejando entrar em uma universidade para cursar cibersegurança e estou realizando cursos na plataforma [Alura](https://www.alura.com.br/)
 - _Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_
 
 **_Confira também o meu site onde você pode ver o que eu faço e para saber um pouco mais sobre mim: [IzaacWeb](https://izaacweb.vercel.app/)_**
