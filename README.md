@@ -6,7 +6,7 @@
 - _|| Possuo conhecimentos em Front-End, Cybersecurity, Data Science, Machine Learning e AI_ || 🧠
 - _|| Eu também estou aprendendo a programar usando as linguagens de JavaScript, HTML, CSS, Bash, Python, etc..._ || ⚙
 - _|| Finalista da [Maratona Tech](https://maratona.tech/) de 2024, Finalista e Premiado no concurso estadual [Agrinho](https://www.sistemafaep.org.br/agrinho/) 2024 - Categoria Programação Front-End, Finalista da [Olimpíada Nacional de Inteligência Artificial](https://www.oniabrasil.com.br/) de 2025 (ONIA)_ || 🏆
-- _|| Atualmente estou cursando ensino superior de Tecnologia em gestão de Segurança e Defesa Cibernética no Centro Universitário Internacional [Uninter](https://www.uninter.com/)_ || 🔐
+- _|| Atualmente estou cursando ensino superior de Tecnologia em Gestão de Segurança e Defesa Cibernética no Centro Universitário Internacional [(Uninter)](https://www.uninter.com/)_ || 🔐
 - _|| Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_ || 📁
 
 **_Confira também o meu site onde você pode ver o que eu faço e para saber um pouco mais sobre mim: [IzaacWeb](https://izaacweb.vercel.app/)_**
