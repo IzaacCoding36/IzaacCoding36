@@ -42,9 +42,7 @@
 ---
 
 <p>
-	<a target="_blank" href="https://github.com/IzaacCoding36"><img src="https://badges.pufler.dev/years/IzaacCoding36?color=green" alt="Izaac Github Years" width="60" /></a>&nbsp;&nbsp;
 	<a target="_blank" href="https://github.com/IzaacCoding36"><img src="https://komarev.com/ghpvc/?username=IzaacCoding36&color=green" alt="Izaac Github Years" width="110" /></a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/IzaacCoding36"><img src="https://badges.pufler.dev/repos/IzaacCoding36?color=green" alt="Izaac Github Repos" width="70" /></a>&nbsp;&nbsp;
 </p>
 
 ***
