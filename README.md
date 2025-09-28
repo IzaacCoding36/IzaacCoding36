@@ -34,15 +34,13 @@
 ---
 
 <div>
-  <a href="https://github.com/IzaacCoding36">
     <img src="https://github-profile-trophy.vercel.app/?username=IzaacCoding36&theme=matrix&row=1" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
 
 <p>
-	<a target="_blank" href="https://github.com/IzaacCoding36"><img src="https://komarev.com/ghpvc/?username=IzaacCoding36&color=green" alt="Izaac Github Years" width="110" /></a>&nbsp;&nbsp;
+	<img src="https://komarev.com/ghpvc/?username=IzaacCoding36&color=green" alt="Izaac Github Years" width="110" />&nbsp;&nbsp;
 </p>
 
 ***
