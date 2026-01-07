@@ -26,18 +26,6 @@
 **_|| [Alura](https://cursos.alura.com.br/user/izaaccoding36) || [Linkedin](https://www.linkedin.com/in/izaac-colodel-de-oliveira-0773682b3/) ||_**
 
 ***
-# Minhas Informações: 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzaacCoding36&theme=merko&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzaacCoding36&theme=merko&layout=compact)
-
----
-
-<div>
-    <img src="https://github-profile-trophy.vercel.app/?username=IzaacCoding36&theme=matrix&row=1" alt="GitHub Trophies" />
-</div>
-
----
 
 <p>
 	<img src="https://komarev.com/ghpvc/?username=IzaacCoding36&color=green" alt="Izaac Github Years" width="110" />&nbsp;&nbsp;
