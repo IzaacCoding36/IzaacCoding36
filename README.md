@@ -5,7 +5,7 @@
 - _|| Olá, **seja bem-vindo!** Eu sou Izaac Colodel de Oliveira, digitalmente IzaacCoding36_ || 👋🏼
 - _|| Possuo conhecimentos em Front-End, Cybersecurity, Data Science, Machine Learning e AI_ || 🧠
 - _|| Eu também estou aprendendo a programar usando as linguagens de JavaScript, HTML, CSS, Bash, Python, etc..._ || ⚙
-- _|| Finalista da [Maratona Tech](https://maratona.tech/) de 2024, Finalista e Premiado no concurso estadual [Agrinho](https://www.sistemafaep.org.br/agrinho/) 2024 - Categoria Programação Front-End, Finalista da [Olimpíada Nacional de Inteligência Artificial](https://www.oniabrasil.com.br/) de 2025 (ONIA)_ || 🏆
+- _|| Finalista da [Maratona Tech](https://maratona.tech/) 2024; Do concurso estadual [Agrinho](https://www.sistemafaep.org.br/agrinho/) 2024 - Categoria Programação Front-End; Da [Olimpíada Nacional de Inteligência Artificial](https://www.oniabrasil.com.br/) de 2025 (ONIA); E na [Cisco Learn-A-Thon](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html) 2026._ || 🏆
 - _|| Atualmente estou cursando ensino superior de Tecnologia em Gestão de Segurança e Defesa Cibernética no Centro Universitário Internacional [(Uninter)](https://www.uninter.com/)_ || 🔐
 - _|| Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_ || 📁
 
