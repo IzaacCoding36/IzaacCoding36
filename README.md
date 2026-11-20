@@ -2,14 +2,15 @@
 
 # Sobre mim:
 
-- _|| Olá, **seja bem-vindo!** Eu sou Izaac Colodel de Oliveira, digitalmente IzaacCoding36_ || 👋🏼
-- _|| Possuo conhecimentos em Front-End, Cybersecurity, Data Science, Machine Learning e AI_ || 🧠
-- _|| Eu também estou aprendendo a programar usando as linguagens de JavaScript, HTML, CSS, Bash, Python, etc..._ || ⚙
-- _|| Finalista da [Maratona Tech](https://maratona.tech/) 2024; Do concurso estadual [Agrinho](https://www.sistemafaep.org.br/agrinho/) 2024 - Categoria Programação Front-End; Da [Olimpíada Nacional de Inteligência Artificial](https://www.oniabrasil.com.br/) de 2025 (ONIA); E na [Cisco Learn-A-Thon](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html) 2026._ || 🏆
-- _|| Atualmente estou cursando ensino superior de Tecnologia em Gestão de Segurança e Defesa Cibernética no Centro Universitário Internacional [(Uninter)](https://www.uninter.com/)_ || 🔐
-- _|| Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_ || 📁
+- || _Olá, **seja bem-vindo!** Eu sou Izaac Colodel de Oliveira, digitalmente IzaacCoding36_ || 👋🏼
+- || _Possuo conhecimentos em Front-End, Cybersecurity, Data Science, Machine Learning e AI_ || 🧠
+- || _Eu também estou aprendendo a programar usando as linguagens de JavaScript, HTML, CSS, Bash, Python, etc..._ || ⚙
+- || _Finalista da [Maratona Tech](https://maratona.tech/) 2024; Do concurso estadual [Agrinho](https://www.sistemafaep.org.br/agrinho/) 2024 - Categoria Programação Front-End; Da [Olimpíada Nacional de Inteligência Artificial](https://www.oniabrasil.com.br/) de 2025 (ONIA); E na [Cisco Learn-A-Thon](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html) 2026._ || 🏆
+- || _Atualmente estou cursando ensino superior de Tecnologia em Gestão de Segurança e Defesa Cibernética no Centro Universitário Internacional [(Uninter)](https://www.uninter.com/)_ || 🔐
+- || _Aprendiz de Fraud Prevention na [EBANX](https://ebanx.com)_ ||
+- || _Irei utilizar esse espaço para compartilhar e organizar meus projetos desenvolvidos_ || 📁
 
-**_Confira também o meu site onde você pode ver o que eu faço e para saber um pouco mais sobre mim: [IzaacWeb](https://izaacweb.vercel.app/eng-dark.html)_**
+**_Confira também o meu site onde você pode ver o que eu faço e para saber um pouco mais sobre mim: [IzaacWeb](https://izaacweb.vercel.app/eng.html)_**
 
 ![](https://media.tenor.com/24tIz3UhN50AAAAC/reasonsimbroke-xbox.gif)
 
